@@ -8,6 +8,6 @@ management:
         include:
         - '*'
 gretting-service:
-  gretting: "Cio"
-  default-value: "Mundo"
+  gretting: "Pronto"
+  default-value: "Mondo"
     
